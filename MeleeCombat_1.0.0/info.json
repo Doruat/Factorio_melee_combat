@@ -1,0 +1,9 @@
+{
+	"name": "MeleeCombat",
+	"version": "1.0.0",
+	"title": "Melee Combat",
+	"author": "Doruat",	
+	"factorio_version": "2.0",
+	"description": "Have you ever wanted to melee combat in factorio? Yeah, me neither. But if you did, this is for you. Add 3 melee weapons (vanilla) with 3 upgraded versions (space age only)",
+	"dependencies": ["(?) space-age >=2.0.0"]
+}
